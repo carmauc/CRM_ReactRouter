@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose",
+      "empresa": "Coca Cola",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": ".",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Tesla",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "/",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Google"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Facebook"
+    },
+    {
+      "nombre": "Mauricio",
+      "empresa": "Maurovet",
+      "email": "correo@correo.com",
+      "telefono": "155464654",
+      "notas": "ecommerce",
+      "id": 6
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "confecciones Maria",
+      "email": "maira@gmail.com",
+      "telefono": "3123123123",
+      "notas": ".",
+      "id": 7
+    },
+    {
+      "nombre": "Alexander",
+      "empresa": "Suinsumo",
+      "email": "alex@gmail.com",
+      "telefono": "2565123131",
+      "notas": ".",
+      "id": 8
+    }
+  ]
+}
